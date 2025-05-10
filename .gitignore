@@ -1,0 +1,35 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / JetBrains
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.unityproj
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Unity generated
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Crash logs
+*.stacktrace
+
+# Auto-generated
+Generated/
